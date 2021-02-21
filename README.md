@@ -1,6 +1,6 @@
 # Panchayat
 
-Panchayat is a realtime chatting web application working on the web-socket protocol and multiple people can simultaneously intereact and chat with each other.
+Panchayat is a realtime chatting web application working on the web-socket protocol and multiple people can simultaneously interact and chat with each other.
 
 Steps to Run - 
 
