@@ -4,8 +4,8 @@ Panchayat is a realtime chatting web application working on the web-socket proto
 
 Steps to Run - 
 
-1. npm run start to start the web socket server (nodeJs is required for the communication) 
-2. index.html file is to be served to the client 
+1. *npm run start* to start the web socket server (nodeJs is required for the communication) 
+2. serve *index.html* file to the client.
 
 Note:- No authetication, No session storage in database is required.
 
