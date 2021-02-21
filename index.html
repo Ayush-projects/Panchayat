@@ -97,8 +97,8 @@ body{
         <form>
           
         <div class="input-container">
-            <input type="text" required="" id="name"/>
-            <label>Full Name</label>		
+            <input type="text" required="" id="name" placeholder="Full Name" />
+            		
         </div>
         
             <button type="button" class="btn" onclick="save()">Let's Do Panchayat</button>
@@ -108,7 +108,7 @@ body{
         function save()
         {   var name = document.getElementById("name").value;
             localStorage.setItem("name", name);
-            window.location = "/chat.html";
+            window.location = "/Panchayat/chat.html";
         }
     </script>
 </body>
